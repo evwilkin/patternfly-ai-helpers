@@ -1,0 +1,8 @@
+{
+    "name": "patternfly-figma-review",
+    "description": "Fetch designs through Figma MCP and review them against PatternFly design guidelines",
+    "version": "0.0.1",
+    "author": {
+        "name": "PatternFly"
+    }
+}
