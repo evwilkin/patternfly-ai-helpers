@@ -1,0 +1,18 @@
+{
+    "name": "patternfly-ai-helpers",
+    "owner": {
+      "name": "PatternFly",
+      "email": "patternfly@redhat.com"
+    },
+    "plugins": [
+      {
+        "name": "patternfly-figma-review",
+        "source": "./plugins/figma-review",
+        "description": "Review a PatternFly Figma design against design guidelines and best practices",
+        "version": "0.0.1",
+        "author": {
+          "name": "PatternFly"
+        }
+      }
+    ]
+  }
