@@ -6,9 +6,9 @@
     },
     "plugins": [
       {
-        "name": "patternfly-figma-review",
-        "source": "./plugins/figma-review",
-        "description": "Review a PatternFly Figma design against design guidelines and best practices",
+        "name": "figma",
+        "source": "./plugins/figma",
+        "description": "Plugin for working with PatternFly and the Figma Desktop MCP",
         "version": "0.0.1",
         "author": {
           "name": "PatternFly"

@@ -4,18 +4,18 @@ This directory contains custom slash commands for the PatternFly Design Reviewer
 
 ## Available Commands
 
-### `/review-design`
+### `/design-review`
 
 Conducts a comprehensive PatternFly design review following the framework in `DESIGN_REVIEW_PROMPT.md`.
 
 **Usage:**
 ```
-/review-design https://www.figma.com/design/[fileKey]/[fileName]?node-id=[nodeId]
+/design-review https://www.figma.com/design/[fileKey]/[fileName]?node-id=[nodeId]
 ```
 
 **Example:**
 ```
-/review-design https://www.figma.com/design/rxlWfeof9blmF1rZBCItoN/Untitled?node-id=31-3576
+/design-review https://www.figma.com/design/rxlWfeof9blmF1rZBCItoN/Untitled?node-id=31-3576
 ```
 
 **What it does:**
@@ -35,12 +35,12 @@ A comprehensive design review report with:
 
 ## How Slash Commands Work
 
-When you type `/review-design` in Claude Code, it:
-1. Loads the prompt from `review-design.md`
+When you type `/design-review` in Claude Code, it:
+1. Loads the prompt from `design-review.md`
 2. Expands it in the conversation
 3. Follows the instructions automatically
 
-You can verify the command is available by typing `/` in Claude Code and looking for "review-design" in the autocomplete list.
+You can verify the command is available by typing `/` in Claude Code and looking for "design-review" in the autocomplete list.
 
 ## Creating New Commands
 
