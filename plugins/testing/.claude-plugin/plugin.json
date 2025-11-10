@@ -1,5 +1,5 @@
 {
-    "name": "testing",
+    "name": "pf-testing",
     "description": "Modernize snapshot tests, analyze test failures, and generate test suites for PatternFly components",
     "version": "0.0.1",
     "author": {

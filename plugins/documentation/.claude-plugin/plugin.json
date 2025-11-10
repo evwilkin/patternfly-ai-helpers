@@ -1,5 +1,5 @@
 {
-    "name": "documentation",
+    "name": "pf-documentation",
     "description": "Sync component documentation with code changes and validate doc accuracy for PatternFly maintainers",
     "version": "0.0.1",
     "author": {

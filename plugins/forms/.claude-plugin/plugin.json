@@ -1,5 +1,5 @@
 {
-  "name": "forms",
+  "name": "pf-forms",
   "description": "Build accessible forms, implement validation, and integrate with form libraries using PatternFly components",
   "version": "1.0.0",
   "author": "PatternFly",

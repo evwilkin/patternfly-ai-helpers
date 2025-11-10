@@ -2,6 +2,21 @@
 
 A comprehensive collection of Claude Code plugins for designers and developers using and building the PatternFly design system.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Available Plugins](#available-plugins)
+- [Plugin Organization](#plugin-organization)
+- [For Maintainers vs Consumers](#for-maintainers-vs-consumers)
+- [Getting Started](#getting-started)
+- [Common Workflows](#common-workflows)
+- [MCP Server Configuration](#mcp-server-configuration)
+- [Plugin Development](#plugin-development)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
+
 ## Overview
 
 The PatternFly AI Helpers marketplace provides specialized plugins organized by functionality to help with:
@@ -18,7 +33,7 @@ The PatternFly AI Helpers marketplace provides specialized plugins organized by 
 
 ### 🎨 Design Plugins
 
-#### [Figma](./figma/)
+#### [Figma](./plugins/figma/)
 Review Figma designs against PatternFly guidelines.
 
 **Commands:**
@@ -33,7 +48,7 @@ Review Figma designs against PatternFly guidelines.
 
 ### ♿ Accessibility Plugins
 
-#### [Accessibility](./accessibility/)
+#### [Accessibility](./plugins/accessibility/)
 Audit and implement accessibility best practices for both code and design.
 
 **Commands:**
@@ -52,7 +67,7 @@ Audit and implement accessibility best practices for both code and design.
 
 ### 📚 Documentation Plugins
 
-#### [Documentation](./documentation/)
+#### [Documentation](./plugins/documentation/)
 Sync component documentation with code changes and maintain accuracy.
 
 **Commands:**
@@ -70,7 +85,7 @@ Sync component documentation with code changes and maintain accuracy.
 
 ### 🧪 Testing Plugins
 
-#### [Testing](./testing/)
+#### [Testing](./plugins/testing/)
 Modernize snapshot tests, analyze failures, and generate test suites.
 
 **Commands:**
@@ -88,7 +103,7 @@ Modernize snapshot tests, analyze failures, and generate test suites.
 
 ### 🐛 Issue Management Plugins
 
-#### [Issues](./issues/)
+#### [Issues](./plugins/issues/)
 Generate well-documented "Good First Issue" GitHub issues for contributors.
 
 **Commands:**
@@ -105,7 +120,7 @@ Generate well-documented "Good First Issue" GitHub issues for contributors.
 
 ### 🔄 Migration Plugins
 
-#### [Migration](./migration/)
+#### [Migration](./plugins/migration/)
 Analyze breaking changes and assist with PatternFly version upgrades.
 
 **Commands:**
@@ -123,7 +138,7 @@ Analyze breaking changes and assist with PatternFly version upgrades.
 
 ### 🧩 Component Plugins
 
-#### [Components](./components/)
+#### [Components](./plugins/components/)
 Suggest appropriate components, compare alternatives, and prototype usage.
 
 **Commands:**
@@ -141,7 +156,7 @@ Suggest appropriate components, compare alternatives, and prototype usage.
 
 ### 🔗 Integration Plugins
 
-#### [Integration](./integration/)
+#### [Integration](./plugins/integration/)
 Debug component integration issues and resolve conflicts.
 
 **Commands:**
@@ -159,7 +174,7 @@ Debug component integration issues and resolve conflicts.
 
 ### 📝 Forms Plugins
 
-#### [Forms](./forms/)
+#### [Forms](./plugins/forms/)
 Build accessible forms and integrate with form libraries.
 
 **Commands:**
@@ -177,7 +192,7 @@ Build accessible forms and integrate with form libraries.
 
 ### 📊 Tables Plugins
 
-#### [Tables](./tables/)
+#### [Tables](./plugins/tables/)
 Configure data tables, add features, and optimize performance.
 
 **Commands:**

@@ -1,5 +1,5 @@
 {
-    "name": "issues",
+    "name": "pf-issues",
     "description": "Generate well-documented 'Good First Issue' GitHub issues for PatternFly maintainers",
     "version": "0.0.1",
     "author": {

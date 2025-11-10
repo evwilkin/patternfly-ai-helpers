@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "figma",
+      "name": "pf-figma",
       "source": "./plugins/figma",
       "description": "Review Figma designs against PatternFly guidelines",
       "version": "0.0.1",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "name": "accessibility",
+      "name": "pf-accessibility",
       "source": "./plugins/accessibility",
       "description": "Audit and implement accessibility in code and design",
       "version": "0.0.1",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "name": "documentation",
+      "name": "pf-documentation",
       "source": "./plugins/documentation",
       "description": "Sync and validate component documentation",
       "version": "0.0.1",
@@ -33,7 +33,7 @@
       }
     },
     {
-      "name": "testing",
+      "name": "pf-testing",
       "source": "./plugins/testing",
       "description": "Modernize tests and generate test suites",
       "version": "0.0.1",
@@ -42,7 +42,7 @@
       }
     },
     {
-      "name": "issues",
+      "name": "pf-issues",
       "source": "./plugins/issues",
       "description": "Generate good first issues for contributors",
       "version": "0.0.1",
@@ -51,7 +51,7 @@
       }
     },
     {
-      "name": "migration",
+      "name": "pf-migration",
       "source": "./plugins/migration",
       "description": "Analyze breaking changes and assist upgrades",
       "version": "0.0.1",
@@ -60,7 +60,7 @@
       }
     },
     {
-      "name": "components",
+      "name": "pf-components",
       "source": "./plugins/components",
       "description": "Suggest and compare PatternFly components",
       "version": "0.0.1",
@@ -69,7 +69,7 @@
       }
     },
     {
-      "name": "integration",
+      "name": "pf-integration",
       "source": "./plugins/integration",
       "description": "Debug integration issues and resolve conflicts",
       "version": "0.0.1",
@@ -78,7 +78,7 @@
       }
     },
     {
-      "name": "forms",
+      "name": "pf-forms",
       "source": "./plugins/forms",
       "description": "Build accessible forms with PatternFly",
       "version": "0.0.1",
@@ -87,7 +87,7 @@
       }
     },
     {
-      "name": "tables",
+      "name": "pf-tables",
       "source": "./plugins/tables",
       "description": "Configure and optimize data tables",
       "version": "0.0.1",
