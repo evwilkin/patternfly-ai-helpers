@@ -1,0 +1,8 @@
+{
+    "name": "accessibility",
+    "description": "Audit and implement accessibility best practices for PatternFly components in code and design",
+    "version": "0.0.1",
+    "author": {
+        "name": "PatternFly"
+    }
+}

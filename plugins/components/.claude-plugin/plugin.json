@@ -1,0 +1,8 @@
+{
+    "name": "components",
+    "description": "Suggest appropriate PatternFly components, compare alternatives, and prototype component usage",
+    "version": "0.0.1",
+    "author": {
+        "name": "PatternFly"
+    }
+}

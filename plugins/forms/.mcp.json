@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "patternfly-docs": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@ericclemmons/mcp-patternfly"
+      ]
+    }
+  }
+}

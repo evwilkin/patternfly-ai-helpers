@@ -1,0 +1,8 @@
+{
+    "name": "migration",
+    "description": "Analyze breaking changes, generate migration guides, and assist with PatternFly version upgrades",
+    "version": "0.0.1",
+    "author": {
+        "name": "PatternFly"
+    }
+}

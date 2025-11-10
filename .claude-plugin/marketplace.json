@@ -1,18 +1,99 @@
 {
-    "name": "patternfly-ai-helpers",
-    "owner": {
-      "name": "PatternFly",
-      "email": "patternfly@redhat.com"
-    },
-    "plugins": [
-      {
-        "name": "figma",
-        "source": "./plugins/figma",
-        "description": "Plugin for working with PatternFly and the Figma Desktop MCP",
-        "version": "0.0.1",
-        "author": {
-          "name": "PatternFly"
-        }
+  "name": "patternfly-ai-helpers",
+  "owner": {
+    "name": "PatternFly",
+    "email": "patternfly@redhat.com"
+  },
+  "plugins": [
+    {
+      "name": "figma",
+      "source": "./plugins/figma",
+      "description": "Review Figma designs against PatternFly guidelines",
+      "version": "0.0.1",
+      "author": {
+        "name": "PatternFly"
       }
-    ]
-  }
+    },
+    {
+      "name": "accessibility",
+      "source": "./plugins/accessibility",
+      "description": "Audit and implement accessibility in code and design",
+      "version": "0.0.1",
+      "author": {
+        "name": "PatternFly"
+      }
+    },
+    {
+      "name": "documentation",
+      "source": "./plugins/documentation",
+      "description": "Sync and validate component documentation",
+      "version": "0.0.1",
+      "author": {
+        "name": "PatternFly"
+      }
+    },
+    {
+      "name": "testing",
+      "source": "./plugins/testing",
+      "description": "Modernize tests and generate test suites",
+      "version": "0.0.1",
+      "author": {
+        "name": "PatternFly"
+      }
+    },
+    {
+      "name": "issues",
+      "source": "./plugins/issues",
+      "description": "Generate good first issues for contributors",
+      "version": "0.0.1",
+      "author": {
+        "name": "PatternFly"
+      }
+    },
+    {
+      "name": "migration",
+      "source": "./plugins/migration",
+      "description": "Analyze breaking changes and assist upgrades",
+      "version": "0.0.1",
+      "author": {
+        "name": "PatternFly"
+      }
+    },
+    {
+      "name": "components",
+      "source": "./plugins/components",
+      "description": "Suggest and compare PatternFly components",
+      "version": "0.0.1",
+      "author": {
+        "name": "PatternFly"
+      }
+    },
+    {
+      "name": "integration",
+      "source": "./plugins/integration",
+      "description": "Debug integration issues and resolve conflicts",
+      "version": "0.0.1",
+      "author": {
+        "name": "PatternFly"
+      }
+    },
+    {
+      "name": "forms",
+      "source": "./plugins/forms",
+      "description": "Build accessible forms with PatternFly",
+      "version": "0.0.1",
+      "author": {
+        "name": "PatternFly"
+      }
+    },
+    {
+      "name": "tables",
+      "source": "./plugins/tables",
+      "description": "Configure and optimize data tables",
+      "version": "0.0.1",
+      "author": {
+        "name": "PatternFly"
+      }
+    }
+  ]
+}
