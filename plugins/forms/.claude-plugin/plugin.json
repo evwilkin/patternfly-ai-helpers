@@ -4,19 +4,5 @@
   "version": "1.0.0",
   "author": {
     "name": "PatternFly"
-  },
-  "commands": [
-    {
-      "name": "build-form",
-      "description": "Generate accessible forms with PatternFly components"
-    },
-    {
-      "name": "add-validation",
-      "description": "Implement form validation with error handling"
-    },
-    {
-      "name": "integrate-form-library",
-      "description": "Integrate with React Hook Form, Formik, or other form libraries"
-    }
-  ]
+  }
 }
